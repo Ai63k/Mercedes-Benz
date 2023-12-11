@@ -1,0 +1,20 @@
+.pop
+{
+    width: 500px;
+    height: 200px;
+    float: right;
+}
+* {
+    margin: 0;
+}
+.pol
+{
+    color: black;
+    font-size: 20px;
+}
+.kol
+{
+    color: black;
+    font-size: 20px;
+    margin-left: 560px;
+}
